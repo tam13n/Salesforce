@@ -1,0 +1,8 @@
+/*hide topic in featured topics */
+.forceTopicFeaturedTopics .topicLabel { display: none !important;} 
+
+/*hide content in featured topics */
+.forceTopicFeaturedTopics .topicContent {display: none !important;
+
+/*change the text of featured topics */
+.forceCommunityHomeTabs .forceTopicFeaturedTopics .topicLabel { font-size: 30px !important; text-transform: uppercase !important; }
